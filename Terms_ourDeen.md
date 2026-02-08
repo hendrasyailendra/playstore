@@ -1,18 +1,18 @@
-## Terms and Conditions
+# Terms and Conditions
 
-# Last updated: 8/2/2026
+### Last updated: 8/2/2026
 
 Welcome to Our Deen.
 
 By downloading, accessing, or using this application (“App”), you agree to be bound by these Terms and Conditions (“Terms”). If you do not agree with these Terms, please discontinue use of the App.
 
-# 1. Purpose of the App
+## 1. Purpose of the App
 
 Our Deen is designed to assist users in memorizing, reviewing, and managing Qur’an hafazan content.
 
 The App is provided for personal learning and educational purposes only.
 
-# 2. Use of the App
+## 2. Use of the App
 
 You agree to use the App respectfully and in accordance with all applicable laws.
 
@@ -24,7 +24,7 @@ Attempt to disrupt, damage, or gain unauthorized access to the App or its system
 
 Misuse any content or features in a way that disrespects the Qur’an or its teachings
 
-# 3. Content Accuracy & Responsibility
+## 3. Content Accuracy & Responsibility
 
 We strive to ensure accuracy in the content provided. However:
 
@@ -34,7 +34,7 @@ Users are encouraged to verify recitation, tajwid, and memorization with trusted
 
 The App is intended as a supporting tool, not a religious authority
 
-# 4. User Data & Privacy
+## 4. User Data & Privacy
 
 Your privacy is important to us.
 
@@ -47,9 +47,9 @@ App preferences or settings
 Basic technical or usage data for stability and improvement
 
 All data is handled according to our Privacy Policy, available at:
-[PRIVACY POLICY URL]
+[[PRIVACY POLICY URL]](https://github.com/hendrasyailendra/playstore/edit/main/Policy_ourDeen.md)
 
-# 5. Service Availability
+## 5. Service Availability
 
 We aim to keep the App accessible and reliable, but we do not guarantee:
 
@@ -59,13 +59,13 @@ That all features will always function without errors
 
 We may update, modify, or discontinue features at any time to improve the App.
 
-# 6. Intellectual Property
+## 6. Intellectual Property
 
 All app content, including text, audio, design, and functionality, belongs to Bayan Labs, unless otherwise stated.
 
 You may not reproduce, distribute, or modify any part of the App without permission.
 
-# 7. Third-Party Services
+## 7. Third-Party Services
 
 The App may use third-party services (such as hosting, analytics, or audio providers).
 
@@ -75,7 +75,7 @@ Changes or interruptions caused by third-party services
 
 Their terms or privacy practices
 
-# 8. Limitation of Liability
+## 8. Limitation of Liability
 
 To the extent permitted by law:
 
@@ -87,15 +87,15 @@ Loss of data or progress
 
 Any damages arising from use or inability to use the App
 
-# 9. Changes to These Terms
+## 9. Changes to These Terms
 
 These Terms may be updated from time to time.
 
 Updates will be posted on this page. Continued use of the App means you accept the updated Terms.
 
-# 10. Contact Information
+## 10. Contact Information
 
 If you have any questions or concerns about these Terms, please contact:
 
-# Email: albayan0712@gmail.com
-# Developer: Bayan Labs
+### Email: albayan0712@gmail.com
+### Developer: Bayan Labs
